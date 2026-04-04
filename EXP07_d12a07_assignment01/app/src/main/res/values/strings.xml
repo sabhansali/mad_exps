@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EXP07_d12a07</string>
+    <string name="location_na">Location not available</string>
+    <string name="lat_lon">Lat: %1$.4f, Lon: %2$.4f</string>
+</resources>
